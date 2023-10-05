@@ -15,6 +15,7 @@ In this project, we improved the classification model of incoming requests to th
 <th>Base model</th>
 <th>Accuracy</th>
 </tr>
+<tr><td>Sequental</td><td>0.98</td></tr>
 <tr><td>Logistic regression</td><td>0.90</td></tr>
 </table>
 
